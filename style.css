@@ -113,7 +113,7 @@ h2 {
   color: var(--primary-color);
 }
 .navbar .join ul li a:last-child {
-  padding: 13px 25px;
+  padding: 14px 25px;
 }
 
 .navbar .join .btn-primary:hover {
